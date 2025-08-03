@@ -13,6 +13,8 @@ Known online as **octothl**, I focus on building secure and efficient solutions 
 ---
 
 ## 🌐 Connect with Me
-linkedin: www.linkedin.com/in/lucas-anderson-70b407378
-quora: https://pt.quora.com/profile/Lucas-Anderson-octothl
-blog: https://octothl.wordpress.com/
+- linkedin: www.linkedin.com/in/lucas-anderson-70b407378
+
+- quora: https://pt.quora.com/profile/Lucas-Anderson-octothl
+
+- blog: https://octothl.wordpress.com/
