@@ -18,3 +18,8 @@ Known online as **octothl**, I focus on building secure and efficient solutions 
 - quora: https://pt.quora.com/profile/Lucas-Anderson-octothl
 
 - blog: https://octothl.wordpress.com/
+
+
+## My posts (will update often)
+
+- https://octothl.wordpress.com/2025/08/03/why-cybersecurity-matters-more-than-ever-insights-by-lucas-anderson-aka-octothl/
