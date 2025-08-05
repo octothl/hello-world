@@ -9,6 +9,7 @@ Known online as **octothl**, I focus on building secure and efficient solutions 
 - Cybersecurity & Privacy
 - Software Development
 - Open-source Research
+ :)
 
 ---
 
